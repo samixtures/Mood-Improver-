@@ -1,3 +1,4 @@
+# PostSchoolFeelings!
 The first page displays this screen, with four buttons, letting you choose which of the four school activities you completed.
 
 ![](1st%20page.PNG)
