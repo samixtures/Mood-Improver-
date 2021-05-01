@@ -1,11 +1,19 @@
-# Sample Snack app
+The first page displays this screen, with four buttons, letting you choose which of the four school activities you completed.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+![](1st%20page.PNG)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+After clicking on any of the above four buttons, the app redirects you to this page, for which you chose how you felt after the specific school activity.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+![](2nd%20page.PNG)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+After clicking the "GOOD" button, the app redirects you to this page, giving you advice for staying humble after doing well on a school activity. It has a start over button for if the user wants to navigate back to the first page of the app.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+![](3rd%20page%20good.PNG)
+
+After clicking the "BAD" button, the app redirects you to this page, giving you advice for focusing on the present and not dwelling on the past. It has a start over button for if the user wants to navigate back to the first page of the app.
+
+![](3rd%20page%20bad.PNG)
+
+After clicking the "UNSURE" button, the app redirects you to this page, giving you advice for doing whatever is better for you right now so that you won't have to worry about the unpredictable result. It has a start over button for if the user wants to navigate back to the first page of the app.
+
+![](3rd%20page%20unsure.PNG)
